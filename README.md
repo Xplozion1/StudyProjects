@@ -91,3 +91,61 @@
 
 <img width="660" height="853" alt="image" src="https://github.com/user-attachments/assets/225b3ca5-2b3f-4d61-9800-f9e0f0138fa4" />
 
+### Метод чисел Фибоначчи
+<img width="690" height="123" alt="image" src="https://github.com/user-attachments/assets/8ebc780d-5a41-47ec-82e4-8bf8ae20705c" />
+
+<img width="504" height="671" alt="image" src="https://github.com/user-attachments/assets/aba27a64-55e1-4965-beef-734190f73f87" />
+
+<img width="503" height="188" alt="image" src="https://github.com/user-attachments/assets/5787854c-a850-4895-8105-e4c8bb65aacf" />
+
+<img width="686" height="564" alt="image" src="https://github.com/user-attachments/assets/1bd7be60-1a6f-4672-91ff-1ef8bef5dd70" />
+
+<img width="213" height="208" alt="image" src="https://github.com/user-attachments/assets/9597bdb2-867c-47a1-98a5-0eb86bccd215" />
+
+### Метод средних
+<img width="690" height="123" alt="image" src="https://github.com/user-attachments/assets/157cd2b3-7a88-456c-9137-103dea57d846" />
+
+<img width="504" height="671" alt="image" src="https://github.com/user-attachments/assets/aba27a64-55e1-4965-beef-734190f73f87" />
+
+<img width="503" height="188" alt="image" src="https://github.com/user-attachments/assets/5787854c-a850-4895-8105-e4c8bb65aacf" />
+
+<img width="594" height="430" alt="image" src="https://github.com/user-attachments/assets/5dd024b1-aa19-456d-aeb6-e4de1ae79be2" />
+
+<img width="215" height="227" alt="image" src="https://github.com/user-attachments/assets/96f44bdb-23b1-45b0-bab7-f7feacf77afb" />
+
+
+### Метод касательных
+<img width="690" height="123" alt="image" src="https://github.com/user-attachments/assets/522a7526-17f2-4430-a20f-4abe60d3628d" />
+
+<img width="504" height="671" alt="image" src="https://github.com/user-attachments/assets/aba27a64-55e1-4965-beef-734190f73f87" />
+
+<img width="503" height="188" alt="image" src="https://github.com/user-attachments/assets/5787854c-a850-4895-8105-e4c8bb65aacf" />
+
+<img width="674" height="618" alt="image" src="https://github.com/user-attachments/assets/cfe8c180-6cc2-40d8-9c51-80fabd008108" />
+
+<img width="215" height="209" alt="image" src="https://github.com/user-attachments/assets/e3027237-ec1e-4c58-b7a7-c8ce6bdb904c" />
+
+
+### Метод хорд
+<img width="690" height="123" alt="image" src="https://github.com/user-attachments/assets/062fc6e2-0a5c-4359-9626-5f0cfb2a2f5c" />
+
+<img width="504" height="671" alt="image" src="https://github.com/user-attachments/assets/aba27a64-55e1-4965-beef-734190f73f87" />
+
+<img width="503" height="188" alt="image" src="https://github.com/user-attachments/assets/5787854c-a850-4895-8105-e4c8bb65aacf" />
+
+<img width="747" height="382" alt="image" src="https://github.com/user-attachments/assets/61858baf-8ccb-4011-bd4f-29b012b670ae" />
+
+<img width="219" height="194" alt="image" src="https://github.com/user-attachments/assets/c64509a4-1e76-4066-b859-7a75c7e71860" />
+
+
+### Метод Ньютона
+<img width="690" height="123" alt="image" src="https://github.com/user-attachments/assets/8ddffd0f-0c5f-4d17-bd47-e9f76999c62a" />
+
+<img width="504" height="671" alt="image" src="https://github.com/user-attachments/assets/aba27a64-55e1-4965-beef-734190f73f87" />
+
+<img width="503" height="188" alt="image" src="https://github.com/user-attachments/assets/5787854c-a850-4895-8105-e4c8bb65aacf" />
+
+<img width="615" height="294" alt="image" src="https://github.com/user-attachments/assets/0f20b776-ddcf-40ad-9bca-a07b652c2b96" />
+
+<img width="238" height="224" alt="image" src="https://github.com/user-attachments/assets/3eddd7d8-79e7-4847-80a5-1d19e2d4973b" />
+
