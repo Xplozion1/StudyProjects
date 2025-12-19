@@ -10,6 +10,19 @@
   - [Задача "Динамические массивы. Путь в лабиринте"](#задача-динамические-массивы-путь-в-лабиринте)
   - [Задача "Создание функций"](#задача-создание-функций)
   - [Задача "Функции. Многомерные массивы"](#задача-функции-многомерные-массивы)
+- [Методы оптимизации на C++](#методы-оптимизации-на-c)
+  - [Метод перебора](#метод-перебора)
+  - [Метод дихотомии](#метод-дихотомии)
+  - [Метод золотого сечения](#метод-золотого-сечения)
+  - [Метод чисел Фибоначчи](#метод-чисел-фибоначчи)
+  - [Метод средних](#метод-средних)
+  - [Метод касательных](#метод-касательных)
+  - [Метод хорд](#метод-хорд)
+  - [Метод Ньютона](#метод-ньютона)
+- [Теория принятия решений](#теория-принятия-решений)
+  - [Критерий Ходжа-Лемана и Байеса-Лапласа](#критерий-ходжа-лемана-и-байеса-лапласа)
+  - [Сетевая модель Дейкстры](#сетевая-модель-дейкстры)
+  - [Динамическое программирование. Поиск кратчайшего пути](#динамическое-программирование-поиск-кратчайшего-пути)
 ## Программирование на C++
 ### Задача "Вычисление суммы произведений факториалов"
 <img width="326" height="89" alt="image" src="https://github.com/user-attachments/assets/0f53382b-cbc5-4138-836c-634cc7303f8f" />
@@ -148,4 +161,58 @@
 <img width="615" height="294" alt="image" src="https://github.com/user-attachments/assets/0f20b776-ddcf-40ad-9bca-a07b652c2b96" />
 
 <img width="238" height="224" alt="image" src="https://github.com/user-attachments/assets/3eddd7d8-79e7-4847-80a5-1d19e2d4973b" />
+
+## Теория принятия решений
+### Критерий Ходжа-Лемана и Байеса-Лапласа
+
+<img width="630" height="141" alt="image" src="https://github.com/user-attachments/assets/7a4a72a0-3454-4d44-98d4-dba41783e524" />
+
+<img width="546" height="844" alt="image" src="https://github.com/user-attachments/assets/8ed8dd04-6ca9-4594-b101-54220aa39342" />
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/731faca3-1cfd-482d-9820-e5129d1a4953" />
+
+
+<img width="500" height="605" alt="image" src="https://github.com/user-attachments/assets/ec68f22a-fad7-4f2f-b898-83db9c2a88d1" />
+
+### Сетевая модель Дейкстры
+Программа, реализующая действия:
+
+1.Создание матрицы заданного размера,
+
+2.Заполнение её случайными числами с учетом ограничений
+
+3.Определение кратчайшго маршрута из первой вершины в последнюю по номеру.
+
+<img width="594" height="85" alt="image" src="https://github.com/user-attachments/assets/97275b7d-2653-4baf-add4-313be9fa5de5" />
+
+<img width="1037" height="828" alt="image" src="https://github.com/user-attachments/assets/73cdb5ec-c938-4800-8d6d-ca4d219cf648" />
+
+<img width="700" height="685" alt="image" src="https://github.com/user-attachments/assets/b7d970f4-62e0-49d8-b6d8-65c933f1cac0" />
+
+<img width="320" height="500" alt="image" src="https://github.com/user-attachments/assets/3703aeed-5676-41b4-870f-b3551afc1ba9" />
+
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/39122214-e100-42a1-8b00-eeaf5ed4391a" />
+
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cd839ee5-e626-47b1-ac9b-70c0dd31ac71" />
+
+<img width="200" height="700" alt="image" src="https://github.com/user-attachments/assets/4543949c-23bc-435e-aa56-8b605eca365a" />
+
+### Динамическое программирование. Поиск кратчайшего пути
+Сформировать матрицу заданного размера и заданного типа, заполнить её случайными числами с учетом ограничений, определить кратчайший маршрут из первой вершины в последнюю.
+
+<img width="570" height="827" alt="image" src="https://github.com/user-attachments/assets/ecc4b02c-feff-4899-a0da-0be701cb11a3" />
+
+<img width="571" height="877" alt="image" src="https://github.com/user-attachments/assets/de7cbd5b-b1f3-4bf1-a833-5c6e4f5d5bb8" />
+
+<img width="1293" height="700" alt="image" src="https://github.com/user-attachments/assets/ab956380-a83f-435a-a905-0d38cf5ca9be" />
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/03fa74a8-b49d-4745-b2ab-12f20d015c1a" />
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/ffba206c-85ad-442f-96a0-f118c76c3ba1" />
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/7864f8c9-b9c3-4aef-90b8-af634d665996" />
+
+
+
+
 
